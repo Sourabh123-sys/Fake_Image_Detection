@@ -9,3 +9,7 @@ models/
 *.pt
 *.pth
 .env
+__MACOSX/
+.DS_Store
+*.DS_Store
+
